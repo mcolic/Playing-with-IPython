@@ -34,5 +34,4 @@ _<center>Presented by Medina Colic</center>_
 
 ##                              What is their role in other diseases?
 
-## How to identify them using bioinformatic 
-##                              techniques?
+## How to identify them using bioinformatic techniques?
